@@ -13,7 +13,7 @@ Passionate about building AI-powered solutions, exploring Machine Learning, and 
 ## 👩‍💻 About Me
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
-🏫 Ramachandra College of Engineering, Eluru (2023–2027)
+🏫 Ramachandra College of Engineering, Eluru (2024–2028)
 
 📈 Academic Highlights
 - 1st Year Percentage: **93%**
